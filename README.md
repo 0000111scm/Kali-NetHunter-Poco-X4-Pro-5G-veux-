@@ -1,15 +1,15 @@
-# Kali-NetHunter-Poco-X4-Pro-5G-veux-
+# Kali-NetHunter Poco-X4-Pro-5G (veux) 
 
 Este guia documenta a instalação funcional e estável do Kali NetHunter no **Poco X4 Pro 5G (veux)**, validado na base Android 16.
 
-🚀 Base: Android 16 | EvolutionX | Nebula Kernel | KernelSU Next
+🚀 Base: Android 16 | EvolutionX | Nebula Kernel | KernelSU
 
 Este guia documenta a instalação funcional e estável do Kali NetHunter no **Poco X4 Pro 5G (veux)**, validado na base Android 16.
 
 ---
 
 ### ⚠️ AVISO / DISCLAIMER
-**Eu não me responsabilizo por travamentos, loops infinitos ou qualquer problema no seu aparelho.** Eu sou apenas um curioso com um celular para testar as coisas. Siga este guia por sua conta e risco. **É altamente recomendável fazer backup das suas partições EFS e Persist antes de começar.**
+**Eu não me responsabilizo por travamentos, loops infinitos ou qualquer problema no seu aparelho.** Eu sou apenas um curioso com um celular para testar as coisas. Siga este guia por sua conta e risco. **É altamente recomendável fazer backup antes de começar.**
 
 ---
 
@@ -18,11 +18,11 @@ Este guia documenta a instalação funcional e estável do Kali NetHunter no **P
 * **ROM:** EvolutionX 16.0 (Android 16)
 * **Recovery:** EvolutionX Recovery (Oficial)
 * **Kernel:** Nebula Kernel r07 (v5.4.293)
-* **Root:** KernelSU Next (v1.0.5-61)
+* **Root:** KernelSU (v1.0.5-61)
 * **SELinux:** Permissivo (Permissive)
 
 ### ⚠️ Nota sobre o KernelSU Next
-Para evitar conflitos de permissão no Android 16, utilize obrigatoriamente o **App KernelSU Next v. 12998 ou inferior**. Versões mais recentes podem causar falhas na montagem do chroot.
+Para evitar conflitos de permissão no Android 16, utilize obrigatoriamente o **App KernelSU 12998 ou inferior**. Versões mais recentes podem causar falhas na montagem do chroot.
 
 ---
 
