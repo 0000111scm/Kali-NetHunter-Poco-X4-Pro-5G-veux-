@@ -16,7 +16,7 @@ Recovery: EvolutionX Recovery (Oficial)
 
 Kernel: Nebula Kernel r07 (v5.4.293)
 
-Root: KernelSU (v1.0.5-61) ou inferior.
+Root: KernelSU (v1.0.5-61)
 
 SELinux: Permissivo (Permissive)
 
@@ -76,11 +76,9 @@ Após o término, selecione Reboot System Now para iniciar o Android.
 4. NetHunter Chroot
 Após o sistema iniciar, instale o KernelSU, o NetHunter Store e baixe os apps NetHunter e NetHunter Terminal.
 
-⚠️ IMPORTANTE: Antes de abrir os aplicativos pela primeira vez, entre no app do KernelSU e conceda permissão de Superusuário (Root) manualmente para o NetHunter e para o NetHunter Terminal.
+⚠️ IMPORTANTE: Antes de abrir os aplicativos, vá ao app do KernelSU e conceda permissão de Superusuário (Root) manualmente para o NetHunter e para o NetHunter Terminal.
 
-Abra o App NetHunter e verifique se o status do root está ok.
-
-Vá em Kali Chroot Manager e realize a instalação do Chroot através do aplicativo.
+Abra o App NetHunter, vá em Kali Chroot Manager e realize a instalação do Chroot.
 
 Após finalizar, abra o terminal e atualize os pacotes:
 
